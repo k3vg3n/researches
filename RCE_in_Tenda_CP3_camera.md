@@ -34,7 +34,7 @@ sprintf(s, "echo $(cat /proc/net/rtl8188fu/wlan0/survey_info | grep 'q';echo k3v
 
 https://github.com/user-attachments/assets/887a889f-5c46-4ee4-8caf-ef11c9b2d9c9
 
-
+#### CVSS 3.0: **8.8 (HIGH) CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H**
 
 **The vulnerability has already been sent to the developer.**
 
