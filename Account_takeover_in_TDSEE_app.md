@@ -21,7 +21,9 @@ Knowing the victim's email, the attacker could change the account password by go
 
 https://github.com/user-attachments/assets/9b45d47d-b75b-4f8f-b402-77f9266482b0
 
+### Impact
 
+In the application, the attacker could view videos from connected cameras and other confidential information.
 
 ### Patch
 
