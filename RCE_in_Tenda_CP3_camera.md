@@ -38,8 +38,3 @@ https://github.com/user-attachments/assets/887a889f-5c46-4ee4-8caf-ef11c9b2d9c9
 
 **The vulnerability has already been sent to the developer.**
 
-### Credits:
-
-[blog.kevgen.ru](https://blog.kevgen.ru/posts/rce_in_tenda_cp3_camera/)
-
-[@k3vg3n](https://t.me/k3vg3n)
